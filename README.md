@@ -94,7 +94,7 @@ as the defect rate rises, profit margin falls in a near-linear fashion. The
 scatter plot (with trend line) makes this the headline finding rather than
 burying it in a time-series chart.
 
-![Defect vs Margin](output/defect_margin_impact.png)
+![Defect vs Margin](output/defect_impact.png)
 
 **Business takeaway:** defects are a direct, predictable drag on profitability —
 each increase in defect rate erodes margin linearly, so quality control has a
